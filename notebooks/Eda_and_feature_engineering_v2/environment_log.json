@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-03-14T22:15:42.445598+00:00",
+  "python": "3.12.12",
+  "platform": "Linux-6.6.113+-x86_64-with-glibc2.35",
+  "packages": {
+    "pip": "24.1.2",
+    "pandas": "2.2.2",
+    "numpy": "2.0.2",
+    "re": "2.2.1",
+    "sentence_transformers": "5.2.3"
+  },
+  "ram_gb": 12.7
+}
